@@ -1,0 +1,40 @@
+
+
+*{
+    margin:0;
+    padding:0;
+    border:none;
+}
+
+body{
+    color:#375555;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight:400;
+    -webkit-font-smoothing: antialiased;
+}
+
+nav{
+    background-color:black;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+   
+    
+
+}
+
+#h{
+    background-color:black;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding-left:800px;
+    padding-right:800px;
+    
+
+  
+,}
+#hhh{
+    display:flex;
+
+}
